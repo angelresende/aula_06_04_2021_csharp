@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Faculdade_ADS\Programacao_Orientada_Objeto\Aula_04\Aula_04\Aula_04\bin\Debug\Aula_04.exe.config
+C:\Users\User\Documents\Faculdade_ADS\Programacao_Orientada_Objeto\Aula_04\Aula_04\Aula_04\bin\Debug\Aula_04.exe
+C:\Users\User\Documents\Faculdade_ADS\Programacao_Orientada_Objeto\Aula_04\Aula_04\Aula_04\bin\Debug\Aula_04.pdb
+C:\Users\User\Documents\Faculdade_ADS\Programacao_Orientada_Objeto\Aula_04\Aula_04\Aula_04\obj\Debug\Aula_04.csprojAssemblyReference.cache
+C:\Users\User\Documents\Faculdade_ADS\Programacao_Orientada_Objeto\Aula_04\Aula_04\Aula_04\obj\Debug\Aula_04.FormPrincipal.resources
+C:\Users\User\Documents\Faculdade_ADS\Programacao_Orientada_Objeto\Aula_04\Aula_04\Aula_04\obj\Debug\Aula_04.Properties.Resources.resources
+C:\Users\User\Documents\Faculdade_ADS\Programacao_Orientada_Objeto\Aula_04\Aula_04\Aula_04\obj\Debug\Aula_04.csproj.GenerateResource.cache
+C:\Users\User\Documents\Faculdade_ADS\Programacao_Orientada_Objeto\Aula_04\Aula_04\Aula_04\obj\Debug\Aula_04.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Faculdade_ADS\Programacao_Orientada_Objeto\Aula_04\Aula_04\Aula_04\obj\Debug\Aula_04.exe
+C:\Users\User\Documents\Faculdade_ADS\Programacao_Orientada_Objeto\Aula_04\Aula_04\Aula_04\obj\Debug\Aula_04.pdb
